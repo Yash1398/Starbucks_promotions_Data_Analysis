@@ -2,9 +2,7 @@
 
 
 ### Intro 
-Imagine walking into your favorite clothing store and being greeted by a salesperson who knows your name, your style, and your size. They show you a selection of clothes that are perfect for you and even suggest some new items that you might like. You leave the store feeling happy and satisfied with your purchases.
-
-This personalized shopping experience is made possible by customer segmentation. By analyzing customer data, the store is able to group its customers into different segments based on their preferences and behaviors. This allows the store to tailor its products and marketing efforts to meet the specific needs of each customer segment. As a result, customers feel understood and valued, and the store is able to increase its sales and customer loyalty.
+This case study examines data given by Starbucks that mimics customer demographics and transactional activity during a promotional campaign. Customers received a variety of deals during the one-month promotion. The goal of this case study is to better analyze consumer responses to various offers in order to develop better techniques to providing them special promotional discounts. Customers are segmented based on their transactional actions so that specialized suggestions may be made for different categories to boost customer stickiness, brand recognition, and overall income. Customer segmentation also offers information on new customer targeting.
 
 ### Objective 
 * What are the best methods for sending customers offers?
