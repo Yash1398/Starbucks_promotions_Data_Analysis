@@ -50,7 +50,7 @@ To increase the efficacy (total offer completion rate) of offers, the organizati
 * If funds allow, offers should be sent to the majority of customers (particularly those with incomes ranging from $45,000 to $105,000) via email and mobile apps.
 * To save money, website offers should only be given to clients with earnings more than $75,000. (For further information, see the Appendix.)
 
-##### Imorove completion rate (of views on offers)
+##### Improve completion rate (of views on offers)
 * Send more 'discount' offers than other sorts since clients of all ages, genders, and economic levels enjoy them.
 * Allow customers a reasonable amount of time (up to 10 days) to complete their offers.
 
