@@ -1,4 +1,4 @@
-# Starbucks_promotions_Data_Analysis
+# Starbucks_Promotions_Data_Analysis
 
 
 ### Intro 
